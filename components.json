@@ -1,0 +1,11 @@
+{
+    "namespace": "Sun",
+    "modules": [
+        {
+            "name": "base",
+            "components": [
+                "button"
+            ]
+        }
+    ]
+}
